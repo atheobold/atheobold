@@ -4,7 +4,7 @@ I am an Assistant Professor of Statistics at Cal Poly, in beautiful San Luis Obi
 
 I study data science education, equitable pedagogy, and how student identities intersect with classroom practices. 
 
-Quick Links: [🔗](https://statistics.calpoly.edu/allison-theobold], [🐦](https://twitter.com/mtstatistics)
+Quick Links: [Personal Profile 🔗](https://statistics.calpoly.edu/allison-theobold), [Twitter: 🐦 ](https://twitter.com/mtstatistics)
 
 To contact me, email 📫 at atheobol@calpoly.edu
 
