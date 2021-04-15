@@ -8,7 +8,7 @@ Quick Links: [🔗](https://statistics.calpoly.edu/allison-theobold], [🐦](htt
 
 To contact me, email 📫 at atheobol@calpoly.edu
 
-😄 Pronouns: she/her/hers
+Pronouns: she/her/hers 🕺🏻
 
 <!--
 - 🔭 I’m currently working on ...
