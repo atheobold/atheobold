@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am an Assistant Professor of Statistics at Cal Poly, in beautiful San Luis Obispo, California. 
 
