@@ -2,20 +2,12 @@
 
 I am an Associate Professor of Statistics at Cal Poly, in beautiful San Luis Obispo, California. 
 
-I study data science education, equitable pedagogy, and how student identities intersect with classroom practices. 
+I study data science education, equitable pedagogy, and how student identities intersect with classroom practices. I'm on sabbatical this year (2026-2027), getting in some quality writing time. 
 
-- 🔭 I’m currently working on creating pedagogical materials to foster inclusive and equitable Intro Data Science courses
-- 🌱 I’m currently learning Python
-- I'll be on sabbatical in 2026-2027 developing an introductory qualitative methods course!
+I'm currently the lead PI on an NSF grant working to create pedagogical materials to foster equitable pair programming collaboration. Visit [our project website](insert-link) to learn more about our development process and the resources we've developed.
 
-Quick Links: [Personal Profile 🔗](https://atheobold.github.io/)
+On this account I keep my personal CV and course materials, along with past projects (all the way back to grad school), and some experimental side projects. If you're here, you're most likely looking for one of the following:
 
-To contact me, email 📫 at atheobol@calpoly.edu
-
-Pronouns: they / them 🕺
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+- [My Profile and CV](https://atheobold.github.io/): This is likely to be the most up-to-date description of my current activities.
+- [Intermediate R](https://github.com/atheobold/advanced-R-website) course materials
+- [Qualitatively analyzing student's code](https://github.com/atheobold/QDA-tutorial-website)
